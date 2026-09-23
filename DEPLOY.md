@@ -7,5 +7,5 @@
 
 部署后记录：
 
-- 支持 URL：待填写
-- 隐私政策 URL：待填写
+- 支持 URL：https://263395818-sys.github.io/tinnitus-relief-site/
+- 隐私政策 URL：https://263395818-sys.github.io/tinnitus-relief-site/privacy.html
